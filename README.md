@@ -32,7 +32,7 @@
     </td>
     <td align="center" width="96">
       <a href="#joaomcvieira-tech">
-        <img src="./images/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./images/python.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
