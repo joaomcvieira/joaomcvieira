@@ -8,7 +8,7 @@
 </p>
 
 <a href="#joaomcvieira-title">
-  <img src="https://komarev.com/ghpvc/?username=joaomcvieira&label=Profile%20views&color=0e75b6&style=flat" alt="joaomcvieira" align="right" />
+  <img src="https://github-readme-stats-gamma-lyart-75.vercel.app/api?username=joaomcvieira" alt="joaomcvieira" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **[Yupii]** as a Full Stack Dev working with Django.
